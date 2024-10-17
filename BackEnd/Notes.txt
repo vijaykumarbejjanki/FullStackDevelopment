@@ -93,6 +93,43 @@ RDS(Relational Database Service): It supports traditional relational databases l
 
 
 
+Proficiency in Core Technologies
+
+Java Backend:
+Strong knowledge of Java (preferably Java 8+).
+Experience with Spring or Spring Boot frameworks for building RESTful APIs.
+Familiarity with Hibernate/JPA for object-relational mapping.
+Understanding of microservices architecture.
+Ability to work with relational databases (like MySQL, PostgreSQL).
+Knowledge of build tools like Maven or Gradle.
+
+React JS Frontend:
+Solid understanding of React JS concepts like components, hooks, state management.
+Experience with JavaScript (ES6+) and TypeScript.
+Familiarity with frontend state management tools like Redux or Context API.
+Comfortable with HTML5, CSS3, and responsive design.
+
+2. Fullstack Development Skills
+Ability to integrate frontend and backend services efficiently.
+Expertise in consuming and designing REST APIs.
+Knowledge of authentication and authorization mechanisms (e.g., JWT, OAuth).
+Experience with version control (Git) and following CI/CD pipelines.
+
+3. Cloud and DevOps Exposure
+AWS, Azure, or GCP knowledge for deploying applications (with experience in services like EC2, S3, Lambda).
+Experience with containerization (like Docker, and possibly Kubernetes).
+Familiarity with automation tools like Jenkins for CI/CD.
+
+4. Problem-Solving and Debugging
+Strong ability to debug code and handle common challenges (memory leaks, performance optimization).
+A good grasp of data structures and algorithms.
+
+5. Collaboration and Soft Skills
+Ability to work in Agile/Scrum teams and participate in sprint planning, code reviews, etc.
+Strong communication skills to collaborate with cross-functional teams.
+
+
+
 
 
 
