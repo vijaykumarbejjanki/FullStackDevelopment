@@ -1,0 +1,53 @@
+Hoisting
+----------
+Hoisting is JavaScript mechanism where variables and function declarations are moved to top of their scope before code execution.
+It allows you to use functions and variables before they are declared.
+
+Closure
+--------
+A Closure is created when a function is defined inside another function, and the inner function retains access to the variables and arguments of the outer function, even after the outer function has finished executing.
+
+Event Delegation
+------------------
+Event Delegation is a technique where a single event listener is added to a parent element to manage events for its child elements.
+This leverages event bubbling and reduces the number of event listeners needed.
+
+Var, Let, Const
+----------------
+Var -> Function-scoped, can be re-declared, and is hoisted
+Let -> Block-scoped, can't be re-declared, and not hoisted to the top
+Const -> Block-scoped, but can't be reassigned
+
+Promises
+---------
+A promise is an object representing the eventual completion or failure of an asynchronous operation.
+It has 3 states:
+1)Pending: Initial state, neither fulfilled nor rejected
+2)Fullfilled: The operation completed successfully
+3)Rejected: The operation failed.
+
+Currying
+---------
+Currying is a technique where a function, instead of taking all arguments at once, taking them one by one, returning a new function for each argument.
+
+
+React JS Features
+-------------------
+1)JSX -> JavaScript XML syntax for writing HTML within JavaScript
+2)Virtual DOM -> Improves performance by updating only changed elements instead of reloading entire page
+3)Component-Based Architecture -> Allows for reusable, maintainable components
+4)Unidirectional Data Flow -> Data flows in one direction, making it easier to debug
+
+
+
+
+
+
+
+
+
+
+
+
+
+
