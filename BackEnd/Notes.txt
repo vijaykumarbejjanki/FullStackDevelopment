@@ -128,6 +128,26 @@ A good grasp of data structures and algorithms.
 Ability to work in Agile/Scrum teams and participate in sprint planning, code reviews, etc.
 Strong communication skills to collaborate with cross-functional teams.
 
+AWS Cloud
+----------
+IAM->Identity and Access Management
+Authentication -> right user
+Authorization -> right access
+
+
+AWS Credentials(root user)
+----------------
+https://446214012248.signin.aws.amazon.com/console/
+Username: odl_user_1498157
+Password: xnng75KJM*0k
+
+
+IAM USer Credentials
+https://446214012248.signin.aws.amazon.com/console
+username: vijay_dev
+password: ilmDAD@246
+
+
 
 
 
